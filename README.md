@@ -22,8 +22,6 @@ Simply feed in your code changes (old and new versions), and Commitomatic will d
 
 ## 📚 Documentation
 
-Detailed documentation on how to set up and use Commitomatic can be found [here](your-documentation-link).
-
 ## 💡 Contributing
 
 Love Commitomatic? Found a bug? Have an idea for a new feature? Contributions are welcome!
