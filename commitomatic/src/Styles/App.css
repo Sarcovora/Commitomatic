@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.container {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+input {
+  margin: 10px;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
