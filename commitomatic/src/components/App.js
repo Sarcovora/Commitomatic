@@ -29,7 +29,7 @@ function App() {
             <div className={`bg-white p-8 rounded-lg shadow-xl w-96 ${darkMode ? "bg-gray-800" : "bg-white"}`}>
 
                 <div className="flex justify-between items-center mb-4">
-                    <h1 className={`text-3xl font-bold ${darkMode ? "text-blue-400" : "text-blue-600"}`}>🚀 Commit-o-matic</h1>
+                    <h1 className={`text-3xl font-bold ${darkMode ? "text-blue-400" : "text-blue-600"}`}>Commit-o-matic</h1>
 
                     {/*THEME SWITCH*/}
                     <ThemeSwitch mode={darkMode} setMode={setDarkMode} />
